@@ -10,7 +10,6 @@ This project is a Python-based application that uses computer vision to detect h
 1. Captures a live video feed from your webcam.
 2. Detects a hand and the number of fingers raised using the **cvzone HandTrackingModule**.
 3. Overlays an image corresponding to the detected finger count onto the video feed.
-4. Dynamically identifies hand and adjusts for mirrored video.
 
 ## Installation
 To run this project, follow these steps:
