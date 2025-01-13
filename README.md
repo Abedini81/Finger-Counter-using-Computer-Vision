@@ -16,4 +16,4 @@ To run this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Finger-Counter-using-Computer-Vision.git
+   git clone https://github.com/Abedini81/Finger-Counter-using-Computer-Vision.git
