@@ -1,5 +1,7 @@
 # Finger Counter using Computer Vision
 
+![Screenshot 2025-01-13 215240](FingerCounter.png)
+
 This project is a Python-based application that uses computer vision to detect hand gestures, count raised fingers, and display corresponding images based on the detected gesture. It utilizes the **cvzone** library for hand tracking and **OpenCV** for real-time video processing.
 
 ## Features
